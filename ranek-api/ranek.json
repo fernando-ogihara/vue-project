@@ -1,0 +1,262 @@
+{
+  "transactions": [
+    {
+      "buyer_id": "test@test",
+      "seller_id": "test@test",
+      "product": {
+        "name": "acer",
+        "price": "899",
+        "description": "test",
+        "sold": "false",
+        "images": null,
+        "user_id": "test@test",
+        "id": "ZXsnk9_"
+      },
+      "address": {
+        "postcode": "l151ez",
+        "address": "Smithdown",
+        "number": "1EZ",
+        "county": "Merseyside",
+        "city": "Liverpool, Wavertree"
+      },
+      "id": 1
+    },
+    {
+      "buyer_id": "test@test",
+      "seller_id": "test@test",
+      "product": {
+        "name": "acer",
+        "price": "899",
+        "description": "test",
+        "sold": "false",
+        "images": null,
+        "user_id": "test@test",
+        "id": "ZXsnk9_"
+      },
+      "address": {
+        "postcode": "l151ez",
+        "address": "Smithdown",
+        "number": "1EZ",
+        "county": "Merseyside",
+        "city": "Liverpool, Wavertree"
+      },
+      "id": 2
+    },
+    {
+      "buyer_id": "test@test",
+      "seller_id": "test@test",
+      "product": {
+        "name": "acer",
+        "price": "899",
+        "description": "test",
+        "sold": "false",
+        "images": null,
+        "user_id": "test@test",
+        "id": "ZXsnk9_"
+      },
+      "address": {
+        "postcode": "l151ez",
+        "address": "Smithdown",
+        "number": "1EZ",
+        "county": "Merseyside",
+        "city": "Liverpool, Wavertree"
+      },
+      "id": 3
+    },
+    {
+      "buyer_id": "andre@origamid.com",
+      "seller_id": "andre@origamid.com",
+      "product": {
+        "id": "smartphone",
+        "name": "Smartphone",
+        "user_id": "andre@origamid.com",
+        "price": "1999",
+        "sold": "false",
+        "description": "New smartphone.",
+        "fotos": null
+      },
+      "address": {
+        "postcode": "12345678",
+        "address": "Rua Ali Perto",
+        "number": "3",
+        "county": "RJ",
+        "city": "Rio de Janeiro"
+      },
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "id": "andre@origamid.com",
+      "email": "andre@origamid.com",
+      "name": "André Rafael",
+      "password": "123",
+      "address": "Rua Ali Perto",
+      "postcode": "12345678",
+      "number": "3",
+      "county": "RJ",
+      "city": "Rio de Janeiro"
+    },
+    {
+      "id": "catarina@gmail.com",
+      "email": "catarina@gmail.com",
+      "name": "Catarina Andrian Ogihara",
+      "password": "1234",
+      "address": "Catarina Road",
+      "postcode": "L15 1EZ",
+      "number": "2",
+      "county": "Merseyside",
+      "city": "Liverpool"
+    },
+    {
+      "id": "test@test",
+      "email": "test@test",
+      "name": "test",
+      "password": "123",
+      "address": "Smithdown",
+      "postcode": "l151ez",
+      "number": "1EZ",
+      "county": "Merseyside",
+      "city": "Liverpool, Wavertree"
+    },
+    {
+      "id": "fernando@test",
+      "email": "fernando@test",
+      "name": "fernando",
+      "password": "1234",
+      "address": "Smithdown",
+      "postcode": "l151ez",
+      "number": "1EZ",
+      "county": "Merseyside",
+      "city": "Liverpool, Wavertree"
+    }
+  ],
+  "product": [
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "user_id": "andre@origamid.com",
+      "price": "4999",
+      "sold": "true",
+      "description": "New notebook.",
+      "images": null
+    },
+    {
+      "id": "smartphone",
+      "name": "Smartphone",
+      "user_id": "andre@origamid.com",
+      "price": "1999",
+      "sold": "false",
+      "description": "New smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "name": "Tablet",
+      "user_id": "andre@origamid.com",
+      "price": "1399",
+      "sold": "false",
+      "description": "New tablet.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "user_id": "andre@origamid.com",
+      "price": "4999",
+      "sold": "false",
+      "description": "New notebook.",
+      "images": null
+    },
+    {
+      "id": "smartphone",
+      "name": "Smartphone",
+      "user_id": "andre@origamid.com",
+      "price": "1999",
+      "sold": "false",
+      "description": "New smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "table",
+      "name": "Tablet",
+      "user_id": "andre@origamid.com",
+      "price": "1399",
+      "sold": "false",
+      "description": "New tablet.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "user_id": "andre@origamid.com",
+      "price": "4999",
+      "sold": "false",
+      "description": "New notebook.",
+      "images": null
+    },
+    {
+      "id": "smartphone",
+      "name": "Smartphone",
+      "user_id": "andre@origamid.com",
+      "price": "1999",
+      "sold": "false",
+      "description": "New smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "name": "Tablet",
+      "user_id": "andre@origamid.com",
+      "price": "1399",
+      "sold": "false",
+      "description": "New tablet.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "user_id": "andre@origamid.com",
+      "price": "4999",
+      "sold": "false",
+      "description": "New notebook.",
+      "images": null
+    },
+    {
+      "id": "smartphone",
+      "name": "Smartphone",
+      "user_id": "andre@origamid.com",
+      "price": "1999",
+      "sold": "false",
+      "description": "New smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "name": "Tablet",
+      "user_id": "andre@origamid.com",
+      "price": "1399",
+      "sold": "false",
+      "description": "New tablet.",
+      "fotos": null
+    },
+    {
+      "name": "acer nitro",
+      "price": "899",
+      "description": "test test",
+      "sold": "false",
+      "images": null,
+      "user_id": "fernando@test.com",
+      "id": "aMd8q7Z"
+    },
+    {
+      "name": "acer",
+      "price": "899",
+      "description": "test",
+      "sold": "false",
+      "images": null,
+      "user_id": "test@test",
+      "id": "ZXsnk9_"
+    }
+  ]
+}
